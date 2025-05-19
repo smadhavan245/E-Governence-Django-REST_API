@@ -125,12 +125,6 @@ Copy code
 CORS_ALLOW_ALL_ORIGINS = True
 For production:
 
-python
-Copy code
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-    "https://your-frontend-domain.com",
-]
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
